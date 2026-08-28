@@ -1,0 +1,20 @@
+# Arduino / Embedded compiled outputs
+*.hex
+*.elf
+*.bin
+*.d
+*.o
+*.a
+*.eep
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
